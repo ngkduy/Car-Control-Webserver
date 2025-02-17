@@ -29,3 +29,6 @@ Trong đó:
 *  Giao diện điều khiển gồm 3 tab: Home, Control và Introduce
 <img src = "https://github.com/ngkduy/Car-Control-Webserver/blob/master/Giao%20di%E1%BB%87n/Giao%20di%E1%BB%87n%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n.png" width = 500\>
 
+- Thông tin webserver gửi về ESP32
+<img src ="https://github.com/ngkduy/Car-Control-Webserver/blob/master/Giao%20di%E1%BB%87n/web%20data.png" width = 500/>
+
